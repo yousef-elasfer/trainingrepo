@@ -1,1 +1,1 @@
-alert("Hello");
+alert("Hello! this repo for training.");
